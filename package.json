@@ -1,7 +1,7 @@
 {
-  "name": "valentine-proposal",
+  "name": "sorry-proposal",
   "version": "1.0.0",
-  "description": "Valentine's Day Proposal Website",
+  "description": "FORGIVE ME",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
