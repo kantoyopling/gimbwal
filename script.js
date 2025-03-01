@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "YEY, besok ya cantik gembel smg aowkaokw bye bye";
+    title.innerHTML = "nah gitu dong, yaudah nanti ya sayangcintamanis, enjoy ur birthday baby <3";
     document.querySelector('img').src = "https://i.pinimg.com/736x/fd/9b/ac/fd9bacb6e785e2bbd290b09eb8842f52.jpg";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
