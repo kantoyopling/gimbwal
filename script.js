@@ -8,16 +8,16 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        text: "aku minta maaf ya leya",
+        image: "https://pbs.twimg.com/media/C1SCKb8UkAA7lHA.jpg"
     },
     {
-        text: "pls klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        text: "plis maafin akuuu",
+        image: "https://puzzlepaws.home.blog/wp-content/uploads/2020/03/img_7337.jpg?w=474"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        text: "klik yang kiri dong",
+        image: "https://pbs.twimg.com/media/DBdKg9mXUAUFAgB.jpg"
     }
 ];
 
