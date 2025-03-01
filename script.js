@@ -122,7 +122,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 
 yesBtn.addEventListener('click', () => {
     title.innerHTML = "Yeay! I knew you want it! on the way~";
-    document.querySelector('img').src = "https://tenor.com/view/one-piece-zoro-roronoa-zoro-fan-art-fanart-gif-14346779747676059736";
+    document.querySelector('img').src = "https://i.pinimg.com/736x/fd/9b/ac/fd9bacb6e785e2bbd290b09eb8842f52.jpg";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
