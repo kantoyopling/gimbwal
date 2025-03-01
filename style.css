@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ffd6e7;
+    background-color: #ffd9ff;
     font-family: Arial, sans-serif;
 }
 
@@ -28,7 +28,7 @@ body {
 .heart {
     position: fixed;
     font-size: 20px;
-    color: #ff4d79;
+    color: #de1717;
     z-index: -1;
     animation: falling 5s linear infinite;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 .title {
-    color: #ff4d79;
+    color: #eb348d;
     margin-bottom: 1rem;
 }
 
