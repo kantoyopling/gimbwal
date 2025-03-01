@@ -132,7 +132,7 @@ noBtn.addEventListener('click', () => {
     if (noCount < 3) {
         noCount++;
         title.innerHTML = messages[noCount - 1].text;
-        document.querySelector('img').src = messages[noCount - 1].image;
+        document.querySelector('img').src = "https://i.pinimg.com/736x/89/16/81/89168182fa9847d76b80705cc6f6438d.jpg";
     } else {
         title.innerHTML = "makanya pencet yes dulu";
         if (!noBtn.classList.contains('running')) {
