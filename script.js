@@ -8,16 +8,16 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "aku minta maaf ya leya",
-        image: "https://pbs.twimg.com/media/C1SCKb8UkAA7lHA.jpg"
+        text: "yakin gamau dek?",
+        image: "https://i.pinimg.com/736x/e7/15/14/e7151468fbcb5fd3070bc20df3d2664f.jpg"
     },
     {
-        text: "plis maafin akuuu",
-        image: "https://puzzlepaws.home.blog/wp-content/uploads/2020/03/img_7337.jpg?w=474"
+        text: "plis pikir lg lahhh",
+        image: "https://i.pinimg.com/736x/70/31/34/703134757a44740d92b59cd7cedf643a.jpg"
     },
     {
-        text: "klik yang kiri dong",
-        image: "https://pbs.twimg.com/media/DBdKg9mXUAUFAgB.jpg"
+        text: "yaudah tapi aku sedih sih...",
+        image: "https://i.pinimg.com/736x/21/4f/de/214fdeca7182a15c6ee0ff1d55d05392.jpg"
     }
 ];
 
@@ -121,8 +121,8 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
-    document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
+    title.innerHTML = "Yeay! I knew you want it! on the way~";
+    document.querySelector('img').src = "https://tenor.com/view/one-piece-zoro-roronoa-zoro-fan-art-fanart-gif-14346779747676059736";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
     bgMusic.play();
@@ -134,7 +134,7 @@ noBtn.addEventListener('click', () => {
         title.innerHTML = messages[noCount - 1].text;
         document.querySelector('img').src = messages[noCount - 1].image;
     } else {
-        title.innerHTML = "TAPI BOONG HEHEHE";
+        title.innerHTML = "TAPI BOONG AOWKOWKWO";
         if (!noBtn.classList.contains('running')) {
             noBtn.classList.add('running');
         }
